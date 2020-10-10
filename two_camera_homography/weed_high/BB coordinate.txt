@@ -1,0 +1,10 @@
+right_coc_close_BB.png
+BB cordinate (startX, startY), (endX, endY)
+[0, 96, 500, 496]
+
+left_coc_close_BB.png
+BB cordinate (startX, startY), (endX, endY)
+[672, 240, 1172, 640]
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% New Fig %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
